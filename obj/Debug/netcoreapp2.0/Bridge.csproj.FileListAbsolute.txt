@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Bridge/bin/Debug/netcoreapp2.0/Bridge.deps.json
+/Users/koji/Repositories/Csharp/Bridge/bin/Debug/netcoreapp2.0/Bridge.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Bridge/bin/Debug/netcoreapp2.0/Bridge.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Bridge/bin/Debug/netcoreapp2.0/Bridge.dll
+/Users/koji/Repositories/Csharp/Bridge/bin/Debug/netcoreapp2.0/Bridge.pdb
+/Users/koji/Repositories/Csharp/Bridge/obj/Debug/netcoreapp2.0/Bridge.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Bridge/obj/Debug/netcoreapp2.0/Bridge.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Bridge/obj/Debug/netcoreapp2.0/Bridge.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Bridge/obj/Debug/netcoreapp2.0/Bridge.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Bridge/obj/Debug/netcoreapp2.0/Bridge.dll
+/Users/koji/Repositories/Csharp/Bridge/obj/Debug/netcoreapp2.0/Bridge.pdb
